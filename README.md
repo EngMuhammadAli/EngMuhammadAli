@@ -72,9 +72,10 @@
 
 
 
-<img align="left" alt="SQL" width="26px" title="Sql"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MongoDB" width="26px" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Sql" width="26px" title="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+
 
 <img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
