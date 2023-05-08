@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning  .Net Framework ,C# ,.Net , .Net Core , Blazor , MVC , Api's , Html, Css, JavaScript
+- 🌱 I’m currently learning  .Net Framework ,C# ,.Net , .Net Core , Blazor , MVC ,Web Api , Html, Css, JavaScript
 
 
 
