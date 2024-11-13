@@ -1,29 +1,12 @@
 
 
 
-- 👋 Hi, I’m @EngMuhammadAli
-
-
-
-
-- 👀 A passionate Fullstack developer from Pakistan
-
-
-
-
-- 🌱 I’m currently learning  .Net Framework ,C# ,.Net , .Net Core , Blazor , MVC ,Web Api , Html, Css, JavaScript
-
-
-
-
-- 💞️ I’m looking to collaborate on Treasury Management System
-
-
-
-
-- 📫 How to reach me EngMuhammadAli@gmail.com
-
-
+👀 A dedicated Fullstack and Core .NET developer from Pakistan, currently working at Arittek Befiler
+🌱 Expanding my skills in .NET Framework, C#, .NET Core, Blazor, MVC, Web API, HTML, CSS, and JavaScript
+🚀 Aspiring to become a Senior Core .NET Developer with a focus on advanced web architecture and system design
+💞️ Open to collaboration, particularly in Treasury Management Systems, enterprise .NET applications, real-time applications using SignalR, and ERP systems
+📫 Reach me at: devmuhammadali14@gmail.com
+📲 WhatsApp: +923331344986
 
 
  
