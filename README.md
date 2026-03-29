@@ -1,22 +1,22 @@
 
 
 
-👀 A dedicated Fullstack and Core .NET developer from Pakistan, currently working at Arittek Befiler
+A dedicated Fullstack and Core .NET developer from Pakistan, currently working at Arittek Befiler
 <br/>
 
-🌱 Expanding my skills in .NET Framework, C#, .NET Core, Blazor, MVC, Web API, HTML, CSS, and JavaScript
+Expanding my skills in .NET Framework, C#, .NET Core, Blazor, MVC, Web API, HTML, CSS, and JavaScript
 <br/>
 
-🚀 Aspiring to become a Senior Core .NET Developer with a focus on advanced web architecture and system design
+Aspiring to become a Senior Core .NET Developer with a focus on advanced web architecture and system design
 <br/>
 
-💞️ Open to collaboration, particularly in Treasury Management Systems, enterprise .NET applications, real-time applications using SignalR, and ERP systems
+Open to collaboration, particularly in Treasury Management Systems, enterprise .NET applications, real-time applications using SignalR, and ERP systems
 <br/>
 
-📫 Reach me at: devmuhammadali14@gmail.com
+Reach me at: devmuhammadali14@gmail.com
 <br/>
 
-📲 WhatsApp: +923331344986
+ WhatsApp: +923331344986
 
 
  
