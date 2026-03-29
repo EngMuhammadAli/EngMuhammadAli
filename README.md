@@ -1,4 +1,4 @@
-## 👋 Muhammad Ali
+##  Muhammad Ali
 **Senior Software Engineer (.NET) — Bank Alfalah | Backend & Enterprise Applications**
 
 A passionate and results-driven **Senior Software Engineer** from Pakistan, currently working at **Bank Alfalah**, specializing in enterprise-grade backend systems and modern .NET technologies.
@@ -7,7 +7,7 @@ I design and develop scalable, secure, and high-performance applications using t
 
 ---
 
-### 💼 Professional Expertise
+###  Professional Expertise
 
 - .NET Core & ASP.NET Core Web API Development
 - Enterprise Application Architecture
@@ -20,7 +20,7 @@ I design and develop scalable, secure, and high-performance applications using t
 
 ---
 
-### 🚀 Technical Stack
+###  Technical Stack
 
 **Backend:**  
 C#, .NET Framework, .NET Core, ASP.NET MVC, Web API, Blazor
@@ -36,7 +36,7 @@ Git, GitHub, Visual Studio, VS Code
 
 ---
 
-### 🎯 Professional Focus
+###  Professional Focus
 
 - Banking & Treasury Management Systems
 - Enterprise .NET Applications
@@ -46,7 +46,7 @@ Git, GitHub, Visual Studio, VS Code
 
 ---
 
-### 🤝 Open to Collaboration
+###  Open to Collaboration
 
 Interested in collaborating on:
 
@@ -57,14 +57,14 @@ Interested in collaborating on:
 
 ---
 
-### 📫 Contact
+###  Contact
 
 📧 Email: devmuhammadali14@gmail.com  
 📱 WhatsApp: +92 333 1344986  
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/m-ali101/)  
 [Instagram](https://www.instagram.com/alee4365/)
