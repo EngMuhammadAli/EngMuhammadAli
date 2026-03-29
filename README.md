@@ -1,97 +1,72 @@
+## 👋 Muhammad Ali
+**Senior Software Engineer (.NET) — Bank Alfalah | Backend & Enterprise Applications**
 
+A passionate and results-driven **Senior Software Engineer** from Pakistan, currently working at **Bank Alfalah**, specializing in enterprise-grade backend systems and modern .NET technologies.
 
+I design and develop scalable, secure, and high-performance applications using the Microsoft technology stack, with hands-on experience in banking systems, API integrations, and real-time enterprise solutions.
 
-A dedicated Fullstack and Core .NET developer from Pakistan, currently working at Arittek Befiler
-<br/>
+---
 
-Expanding my skills in .NET Framework, C#, .NET Core, Blazor, MVC, Web API, HTML, CSS, and JavaScript
-<br/>
+### 💼 Professional Expertise
 
-Aspiring to become a Senior Core .NET Developer with a focus on advanced web architecture and system design
-<br/>
+- .NET Core & ASP.NET Core Web API Development
+- Enterprise Application Architecture
+- Banking & Financial System Integrations
+- RESTful API Design & Microservices
+- SQL Server & Performance Optimization
+- Real-time Applications using SignalR
+- MVC & Blazor Applications
+- Clean Architecture & Best Practices
 
-Open to collaboration, particularly in Treasury Management Systems, enterprise .NET applications, real-time applications using SignalR, and ERP systems
-<br/>
+---
 
-Reach me at: devmuhammadali14@gmail.com
-<br/>
+### 🚀 Technical Stack
 
- WhatsApp: +923331344986
+**Backend:**  
+C#, .NET Framework, .NET Core, ASP.NET MVC, Web API, Blazor
 
+**Frontend:**  
+HTML5, CSS3, JavaScript, Bootstrap
 
- 
+**Database:**  
+SQL Server
 
+**Tools & Platforms:**  
+Git, GitHub, Visual Studio, VS Code
 
+---
 
+### 🎯 Professional Focus
 
-### Connect with me:
+- Banking & Treasury Management Systems
+- Enterprise .NET Applications
+- Scalable Web Architectures
+- System Design & Backend Optimization
+- Secure Authentication & API Development
 
+---
 
+### 🤝 Open to Collaboration
 
+Interested in collaborating on:
 
-[<img align="left" alt="Muhammad Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Enterprise .NET Solutions
+- Banking & Fintech Systems
+- ERP Platforms
+- Real-time Distributed Applications
 
-[<img align="left" alt="Muhammad Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
+### 📫 Contact
 
+📧 Email: devmuhammadali14@gmail.com  
+📱 WhatsApp: +92 333 1344986  
 
+---
 
-<br />
+### 🌐 Connect With Me
 
+[LinkedIn](https://www.linkedin.com/in/m-ali101/)  
+[Instagram](https://www.instagram.com/alee4365/)
 
-
-
-
-### Languages and Tools:
-
-
-
-
-<img align="left" alt="Visual Studio Code" width="26px" title="visual-studio-code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" title="Html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" title="Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-
-
-
-<img align="left" alt="c#" width="26px" title="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-
-<img align="left" alt="JavaScript" width="26px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-
-
-
-<img align="left" alt="Sql" width="26px" title="Sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-
-
-<img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" title="Github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-
-
-
-<br />
-
-<br />
-
-<img align="left" alt="Eng Muhammad Ali Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMuhammadAli&layout=compact&theme=radical&hide_border=false" />
-
-<img align="left" alt="Eng Muhammad Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=EngMuhammadAli&show_icons=true&theme=radical&hide_border=false" />
-
-<img height="250" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-
-
-
-
-
-[instagram]:https://www.instagram.com/alee4365/
-
-[linkedin]: https://www.linkedin.com/in/m-ali101/
+---
